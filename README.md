@@ -1,6 +1,6 @@
 # Microcontroller Testing Using iTCLab : 7
 
-#### Controlling iTCLab using Python Program Via the Jupyter Notebook.
+#### Implementing PID (Proportional Integral Derivative) in iTCLab using Python Program.
 
 Output :
 
