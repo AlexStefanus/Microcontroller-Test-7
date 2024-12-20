@@ -1,6 +1,6 @@
 # Microcontroller Testing Using iTCLab : 7
 
-#### Controlling iTCLab using Python GUI, Via the Jupyter Notebook.
+#### Controlling iTCLab using Python Program Via the Jupyter Notebook.
 
 Output :
 
